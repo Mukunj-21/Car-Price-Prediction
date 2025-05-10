@@ -6,3 +6,5 @@ data/vehicles.csv
 
 # Ignore the entire dataset folder
 data/
+
+venv/
